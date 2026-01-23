@@ -2,7 +2,8 @@
 Its my first blueprint ever for the hackclub and i am so excited!
 
 This is the finished 3D model:
-<img width="1184" height="842" alt="full model" src="https://github.com/user-attachments/assets/65ebc44c-1bdf-45ef-a6fb-79a959e88e37" />
+<img width="1184" height="838" alt="new3dphoto" src="https://github.com/user-attachments/assets/da6bfd3f-4213-4b63-b6c0-2c9296f80156" />
+
 
 Why i did it in the first place?:
 I decided i wanted to make the hackpad because i always loved robotics and electronics, as i started making youtube and using my pc for editing i really wanted a streamer deck but it is too expensive for me, i saw about hackclub in a video but a few days ago i saw an instagram rell about the hackpad!
@@ -17,8 +18,11 @@ BOM:
   4x Blank DSA Keycaps
   4x M3x16 Bolt
   4x M3 Heatset
+  1x EC11 Rotary encoder
 
 Schematic:
-<img width="917" height="863" alt="Screenshot 2026-01-19 190302" src="https://github.com/user-attachments/assets/bcecbd9f-7aa2-4ef1-b371-8c0bb21b3908" />
+<img width="779" height="680" alt="Screenshot 2026-01-23 194130" src="https://github.com/user-attachments/assets/b1dfce04-a8dc-45df-a7b1-99b912fc060f" />
+
 PCB:
-<img width="807" height="517" alt="Screenshot 2026-01-19 190347" src="https://github.com/user-attachments/assets/abe06081-55ea-4cf4-a31f-f25531c46adb" />
+<img width="975" height="619" alt="Screenshot 2026-01-23 194215" src="https://github.com/user-attachments/assets/5978e1ca-d5ca-4bac-8f2c-3f313c4bc4fc" />
+

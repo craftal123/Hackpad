@@ -21,8 +21,10 @@ BOM:
   1x EC11 Rotary encoder
 
 Schematic:
+
 <img width="779" height="680" alt="Screenshot 2026-01-23 194130" src="https://github.com/user-attachments/assets/b1dfce04-a8dc-45df-a7b1-99b912fc060f" />
 
 PCB:
-<img width="975" height="619" alt="Screenshot 2026-01-23 194215" src="https://github.com/user-attachments/assets/5978e1ca-d5ca-4bac-8f2c-3f313c4bc4fc" />
+
+<img width="1081" height="730" alt="Screenshot 2026-01-24 195039" src="https://github.com/user-attachments/assets/26180200-193f-4da3-abce-c528a3899018" />
 

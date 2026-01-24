@@ -9,7 +9,7 @@ Why i did it in the first place?:
 I decided i wanted to make the hackpad because i always loved robotics and electronics, as i started making youtube and using my pc for editing i really wanted a streamer deck but it is too expensive for me, i saw about hackclub in a video but a few days ago i saw an instagram rell about the hackpad!
 
 My case:
-<img width="1184" height="842" alt="full case" src="https://github.com/user-attachments/assets/d3f046ef-4492-4503-b5a6-fb224dc7d9cb" />
+<img width="1184" height="838" alt="correct case" src="https://github.com/user-attachments/assets/2c46cff3-a8b9-47aa-b720-9a6f91690414" />
 
 BOM:
   4x Cherry MX Switches
